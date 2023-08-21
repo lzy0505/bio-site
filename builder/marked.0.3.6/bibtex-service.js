@@ -134,6 +134,24 @@ const InfoLinks = [
     href1html: '',
     href2html: ''
 },
+{
+    field: 'preprint',
+    name: 'Pre-print',
+    href1html: '',
+    href2html: ''
+},
+{
+    field: 'mechanisation',
+    name: 'Mechanisation',
+    href1html: '',
+    href2html: ''
+},
+{
+    field: 'slides',
+    name: 'Slides',
+    href1html: '',
+    href2html: ''
+},
 ];
 function RenderInfo(entry, result)
 {
